@@ -1,0 +1,98 @@
+{
+    "status": "ok",
+    "result": {
+        "movie": [
+            {
+                "title": "The Hitchhiker's Guide to the Galaxy",
+                "releaseDate": "2005",
+                "summary": "Mere seconds before the Earth is to be demolished by an alien construction crew, Arthur Dent is swept off the planet by his friend Ford Prefect, a researcher penning a new edition of &quot;The Hitchhiker's Guide to the Galaxy.&quot;",
+                "status": "Released",
+                "duration": "1h 49m",
+                "budget": "$50,000,000.00",
+                "revenue": "$104,478,416.00",
+                "originalLanguage": "English",
+                "genre": [
+                    "Adventure",
+                    "Comedy",
+                    "Family",
+                    "Science Fiction"
+                ],
+                "keywords": [
+                    "bureaucracy",
+                    "android",
+                    "based on novel or book",
+                    "chase",
+                    "space travel"
+                ],
+                "cast": [
+                    {
+                        "name": "Martin Freeman",
+                        "character": "Arthur Dent"
+                    },
+                    {
+                        "name": "Zooey Deschanel",
+                        "character": "Trillian"
+                    },
+                    {
+                        "name": "Sam Rockwell",
+                        "character": "Zaphod Beeblebrox"
+                    },
+                    {
+                        "name": "Yasiin Bey",
+                        "character": "Ford Prefect"
+                    },
+                    {
+                        "name": "John Malkovich",
+                        "character": "Humma Kavula"
+                    }
+                ]
+            }
+        ],
+        "tv": [
+            {
+                "title": "Batman: The Animated Series",
+                "releaseDate": "1992",
+                "summary": "Batman: The Animated Series is an American animated television series based on the DC Comics superhero Batman. The series was widely praised for its thematic complexity, dark tone, artistic quality, and faithfulness to its title character's crime-fighting origins.",
+                "status": "Ended",
+                "duration": "30m, 22m",
+                "originalLanguage": "English",
+                "genre": [
+                    "Action",
+                    "Adventure",
+                    "Animation",
+                    "Drama",
+                    "Mystery"
+                ],
+                "keywords": [
+                    "dc comics",
+                    "superhero",
+                    "based on comic",
+                    "robin",
+                    "super power"
+                ],
+                "cast": [
+                    {
+                        "name": "Kevin Conroy",
+                        "character": "Batman\/Bruce Wayne"
+                    },
+                    {
+                        "name": "Efrem Zimbalist Jr.",
+                        "character": "Alfred Pennyworth"
+                    },
+                    {
+                        "name": "Bob Hastings",
+                        "character": "Commissioner James Gordon"
+                    },
+                    {
+                        "name": "Loren Lester",
+                        "character": "Robin\/Dick Grayson"
+                    },
+                    {
+                        "name": "Robert Costanzo",
+                        "character": "Det. Harvey Bullock"
+                    }
+                ]
+            }
+        ]
+    }
+}
