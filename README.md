@@ -1,8 +1,8 @@
 # Projet de Parsing de The Movie DB
 
-## Introduction
-
 <img width="723" alt="Capture d’écran 2024-04-18 à 10 06 43" src="https://github.com/twnguydev/movie-parser/assets/154362306/19ba1fbd-dc00-464f-b3e5-1119005037db">
+
+## Introduction
 
 “Mince, je ne me souviens plus du nom de ce film, tu sais celui avec le gars là, puis il fait des trucs après. . . ” Vous avez surement déjà entendu quelqu’un commencer à expliquer un film comme cela. Pour l’aider, vous lui conseillez d’aller sur le site The Movie DB !
 
